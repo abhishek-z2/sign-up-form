@@ -82,6 +82,13 @@ time, mark, audio, video {
 
 }
 
+.sidebar p{
+    position:relative;
+    top:100px;
+    color: rgb(191, 255, 191);
+    align-self: center;
+    
+}
 
 
 #form {
